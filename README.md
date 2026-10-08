@@ -63,6 +63,7 @@ Tools for running several coding agents or agent sessions in parallel while keep
 - [Omnigent](https://github.com/omnigent-ai/omnigent) - A meta-harness for coordinating Claude Code, Codex, Cursor, Pi, and custom agents with parallel subagents, policies, sandboxing, and shared sessions.
 - [Orca](https://github.com/stablyai/orca) - An environment for operating a fleet of parallel coding agents across worktrees and remote machines.
 - [Ruflo](https://github.com/ruvnet/ruflo) - A coding-agent orchestration platform with swarm topologies, specialized roles, MCP tools, shared memory, hooks, and workflow plugins.
+- [Tale](https://github.com/tale-project/tale) - A shared project workspace that coordinates coding agents through assigned tasks, persistent sandbox workspaces, permissioned delegation, and result review.
 
 ## Visual Workflow Builders
 
