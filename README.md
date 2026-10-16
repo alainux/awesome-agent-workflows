@@ -81,6 +81,7 @@ Standards and infrastructure for capability discovery, handoffs, messaging, shar
 - [herdr-mesh](https://github.com/runchr-works/herdr-mesh) - An MCP coordination layer for herdr supporting agent spawning, pane-to-pane messaging, and structured context handoff.
 - [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - An MCP server that gives coding agents identities, inboxes, threaded messages, and file reservations for asynchronous collaboration.
 - [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/modelcontextprotocol) - An open protocol for connecting agents and LLM applications to tools, data sources, prompts, and remote capabilities.
+- - ACP-lite (Agent Connect Personal) ([GitHub](https://github.com/furoute/acp-lite)) - Minimal cross-host messaging for personal AI agents: Syncthing file-sync "post office" per machine, Ed25519-signed envelopes, hash-chained audit, zero-token delivery. MIT.
 
 ## Purpose-Built Workflows
 
