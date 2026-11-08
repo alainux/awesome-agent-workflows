@@ -86,6 +86,7 @@ Standards and infrastructure for capability discovery, handoffs, messaging, shar
 
 Concrete systems that coordinate specialized agents or stages to produce a domain-specific result.
 
+- [agent-qa](https://vostride.com) - A web and mobile QA workflow whose shipped skills guide coding agents through test authoring, evidence triage, debugging, and verification, with reviewable memidex knowledge and self-improvement.
 - [Godogen](https://github.com/htdt/godogen) - An autonomous game-development workflow that coordinates coding agents to design, implement, run, inspect, and iterate games.
 - [img2threejs](https://github.com/img2threejs/img2threejs) - A staged agent workflow that analyzes a reference image and reconstructs it as editable procedural Three.js code.
 - [OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - A business-assistant reference system that presents one executive persona while delegating research, analysis, writing, planning, and review to specialists.
