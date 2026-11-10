@@ -41,6 +41,7 @@ SDKs and runtimes for building applications that route, delegate, hand off, para
 - [Dapr Agents](https://github.com/dapr/dapr-agents) - Durable, distributed agent workflows built on Dapr primitives for state, messaging, observability, and resilient execution.
 - [Google Agent Development Kit](https://github.com/google/adk-python) - A model-agnostic toolkit for hierarchical multi-agent systems, deterministic workflow agents, sessions, evaluation, and deployment.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - A graph runtime for long-running, stateful workflows with durable execution, human-in-the-loop control, and multi-agent patterns.
+- [LazyMind](https://github.com/LazyAGI/LazyMind) - An AI Skill Runtime that turns reusable Skills into observable, stateful workflows with approval checkpoints, retries, rewinds, and editable artifacts.
 - [Mastra](https://github.com/mastra-ai/mastra) - A TypeScript framework for agents and graph workflows with branching, parallel steps, human review, MCP, evaluation, and observability.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - An MCP-native framework with workflow patterns such as parallel fan-out, routing, orchestrator-workers, evaluator loops, and swarms.
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft’s framework for composing agents and graph workflows with routing, handoffs, concurrent execution, state, and observability.
