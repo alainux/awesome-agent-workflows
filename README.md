@@ -55,6 +55,7 @@ Tools for running several coding agents or agent sessions in parallel while keep
 
 - [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - An agent IDE that runs coding agents in isolated sessions and coordinates implementation, CI, review, repair, and merge loops.
 - [Agor](https://github.com/preset-io/agor) - A self-hosted multiplayer web workspace for Claude Code, Codex, Gemini, and other coding agents, with isolated git branches, persistent teammates, MCP control, shared sessions, and per-prompt cost tracking.
+- [Althar](https://github.com/AltharIDE/althar) - Desktop ADE that turns requests into tasks, assigns coding agents, and sends their changes to another model for review.
 - [AWS CLI Agent Orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - A supervisor-worker system for coordinating coding agents in isolated terminal sessions with assignment, messaging, and scheduled flows.
 - [Container Use](https://github.com/dagger/container-use) - An MCP server and CLI that gives coding agents isolated containerized environments, branch-backed changes, logs, and human intervention points.
 - [herdr](https://github.com/herdrdev/herdr) - A persistent terminal workspace for launching, observing, and returning to multiple long-running coding-agent sessions.
